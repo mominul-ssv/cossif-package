@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cossif
+Version: 0.0.1
+Summary: CosSIF: Cosine Similarity-based Image Filtering
+Home-page: https://github.com/mominul-ssv/cossif-package
+Author: Mominul Islam
+Author-email: mominul.ivi@gmail.com
+Project-URL: Bug Tracker, https://github.com/mominul-ssv/cossif-package/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# CosSIF: Cosine Similarity-based Image Filtering
